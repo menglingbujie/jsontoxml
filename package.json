@@ -1,0 +1,23 @@
+{
+  "name": "jsontoxml",
+  "version": "1.0.0",
+  "description": "",
+  "main": "toxml.js",
+  "dependencies": {
+    "xml-writer": "^1.6.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node toxml.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/menglingbujie/jsontoxml.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/menglingbujie/jsontoxml/issues"
+  },
+  "homepage": "https://github.com/menglingbujie/jsontoxml#readme"
+}
