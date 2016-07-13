@@ -1,10 +1,11 @@
 {
   "name": "jsontoxml",
   "version": "1.0.0",
-  "description": "",
+  "description": "JSON TO XML",
   "main": "toxml.js",
   "dependencies": {
-    "xml-writer": "^1.6.0"
+    "xml-writer": "^1.6.0",
+    "xml2js":"*"
   },
   "devDependencies": {},
   "scripts": {

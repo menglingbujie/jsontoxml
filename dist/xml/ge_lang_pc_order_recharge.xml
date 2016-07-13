@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<resources lang="en">
+ <string name="money"> 1 coin</string>
+ <string name="pay_name">Top-up Center</string>
+ <string name="location">Location:</string>
+ <string name="loading">Loading</string>
+ <string name="pay_way">Top-up Methods:</string>
+ <string name="total">Subtotal</string>
+ <string name="pay">Confirm payment</string>
+ <string name="operator">Operator:</string>
+ <string name="money_card">Price List:</string>
+ <string name="recharge_account">Account:</string>
+ <string name="change_account">Switch account</string>
+ <string name="home">Homepage</string>
+ <string name="recharge_reflow">Top-up traffic</string>
+ <string name="reflow">Traffic</string>
+ <string name="product">Products</string>
+ <string name="taotaole">Taotaole</string>
+ <string name="bingo18">Bingo Shop</string>
+ <string name="taotaole_info">Top-up coins</string>
+ <string name="bingo18_info">Top-up coins</string>
+ <string name="vpn-master_info">Top-up VPN Master</string>
+ <string name="smart-cleaner_info">Buy Smart Cleaner payment function</string>
+ <string name="taotaole_desp">NT$10= 1 Coin   1 Day VIP of Smart Cleaner</string>
+ <string name="bingo18_desp">NT$10= 2 Coins=1 Day VIP of Smart Cleaner</string>
+ <string name="vpn-master_desp">10NT$=1 DAY VIP of Smart Cleaner Pro</string>
+ <string name="smart-cleaner_desp">10NT$=10NT$/Day</string>
+ <string name="jakarta2000_desp">RP. 2000 = 1 Day VIP of Smart Cleaner Pro (1 free coin as a gift)</string>
+ <string name="recharge">Top-up Center</string>
+ <string name="order_title">Check order</string>
+ <string name="order_num">Order id</string>
+ <string name="order_buy_date">Purchased date</string>
+ <string name="order_good_info">Product</string>
+ <string name="order_good_money">Top-up amount</string>
+ <string name="order_payway">Payment methods</string>
+ <string name="order_description">Introduction</string>
+ <string name="order_state">Payment Status</string>
+ <string name="order_isuse">Whether to use or not</string>
+ <string name="order_wait_pay">Waiting for payment</string>
+ <string name="order_paid">Paid</string>
+ <string name="order_pay_fail">Paid failed</string>
+ <string name="order_pay_cancel">Canceled</string>
+ <string name="order_state_used">Yes</string>
+ <string name="order_state_unused">No</string>
+ <string name="order_search_result_info">No search result, please make sure the requirement is right.</string>
+ <string name="contact_us">Contact Us</string>
+ <string name="order_empry">Empty</string>
+ <string name="order_search">Please input order id</string>
+ <string name="search">Search</string>
+ <string name="order_money">Coin</string>
+ <string name="WriteEmail">Please enter email</string>
+ <string name="Emailformat">Email format is incorrect.</string>
+ <string name="Informationcompleted">Please confirm your card information is entered</string>
+ <string name="Numbercompleted">Please confirm your card number is entered</string>
+ <string name="expire month">Please confirm your expire month and year is entered</string>
+ <string name="CVV completed">Please confirm the CVV is correct</string>
+ <string name="E-mail required">Please enter email</string>
+ <string name="enter number">Please enter card number</string>
+ <string name="Length error">The length error</string>
+ <string name="Enter password">Please enter password</string>
+ <string name="Please do not repeat the form">Please do not resubmit the form!</string>
+</resources>

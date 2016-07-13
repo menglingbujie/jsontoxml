@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<resources lang="zh-tw">
+ <string name="money">+1淘幣</string>
+ <string name="pay_name">儲值中心</string>
+ <string name="location">您當前的位置:</string>
+ <string name="loading">加載</string>
+ <string name="pay_way">儲值方式:</string>
+ <string name="total">應付:</string>
+ <string name="pay">確認付款</string>
+ <string name="operator">運營商:</string>
+ <string name="money_card">充值價目:</string>
+ <string name="recharge_account">儲值賬號:</string>
+ <string name="change_account">更換賬號</string>
+ <string name="home">首頁</string>
+ <string name="recharge_reflow">流量储值</string>
+ <string name="reflow">流量</string>
+ <string name="product">產品中心</string>
+ <string name="taotaole">淘淘樂</string>
+ <string name="bingo18">賓果5元購</string>
+ <string name="taotaole_info">淘幣儲值</string>
+ <string name="bingo18_info">果幣儲值</string>
+ <string name="vpn-master_info">VPN Master 流量儲值</string>
+ <string name="smart-cleaner_info">Smart Cleaner 付費功能購買</string>
+ <string name="taotaole_desp">NT$10=1天Smart Cleaner VIP時間(送1淘幣)</string>
+ <string name="bingo18_desp">NT$10=1天 Smart Cleaner VIP時間(送2果幣)</string>
+ <string name="vpn-master_desp">10NT$=1M VPN Master 流量</string>
+ <string name="smart-cleaner_desp">10NT$=10NT$/天</string>
+ <string name="jakarta2000_desp">RP. 2000 = 1M VPN Master (1 free coin as a gift)</string>
+ <string name="recharge">儲值中心</string>
+ <string name="order_title">訂單查詢</string>
+ <string name="order_num">訂單號</string>
+ <string name="order_buy_date">購買日期</string>
+ <string name="order_good_info">商品</string>
+ <string name="order_good_money">金額</string>
+ <string name="order_payway">支付方式</string>
+ <string name="order_description">說明</string>
+ <string name="order_state">支付狀態</string>
+ <string name="order_isuse">是否使用</string>
+ <string name="order_wait_pay">待付款</string>
+ <string name="order_paid">已付款</string>
+ <string name="order_pay_fail">付款失败</string>
+ <string name="order_pay_cancel">已取消</string>
+ <string name="order_state_used">是</string>
+ <string name="order_state_unused">否</string>
+ <string name="order_search_result_info">無搜索結果,請確認條件是否正確。</string>
+ <string name="contact_us">聯繫我們</string>
+ <string name="order_empry">無</string>
+ <string name="order_search">查詢訂單號</string>
+ <string name="search">搜索</string>
+ <string name="order_money">貨幣</string>
+ <string name="WriteEmail">請填寫付款人電子信箱</string>
+ <string name="Emailformat">Email格式不正確</string>
+ <string name="Informationcompleted">請確認卡號資訊皆已填寫完成</string>
+ <string name="Numbercompleted">請確認信用卡號是否輸入完整</string>
+ <string name="expire month">請確認有效月年輸入正確</string>
+ <string name="CVV completed">請確認填入卡片背面末三碼</string>
+ <string name="E-mail required">請填寫付款人電子信箱</string>
+ <string name="enter number">請輸入卡號</string>
+ <string name="Length error">長度有誤</string>
+ <string name="Enter password">請輸入密碼</string>
+ <string name="Please do not repeat the form">请勿重复提交表单!</string>
+</resources>
