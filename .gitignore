@@ -1,6 +1,6 @@
 node_modules
-after/*.json
-after/*.xml
+after/**/*.json
+after/**/*.xml
 
-before/*.json
-before/*.xml
+before/**/*.json
+before/**/*.xml
