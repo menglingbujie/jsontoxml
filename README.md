@@ -32,8 +32,10 @@ JSON TO XML
   
 执行命令
   json转xml
-  copy文件到before的json下面，然后执行npm run toxml
+  
+    copy文件到before的json下面，然后执行npm run toxml
   
   xml转json
-  copy文件到after的xml下面，然后执行npm run tojson
+  
+    copy文件到after的xml下面，然后执行npm run tojson
   
