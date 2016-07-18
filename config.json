@@ -2,13 +2,12 @@
   "file": {
     "before": {
       "jsons": [
-        "taotaole_integralrules.json",
-        "ge_lang_mobile_order_recharge.json"
+        "langs.json"
       ]
     },
     "after": {
       "xmls": [
-        "ge_lang_mobile_order_recharge.xml"
+        "langs.xml"
       ]
     }
   },
@@ -22,5 +21,4 @@
       "xml": "./after/xml/"
     }
   }
-
 }

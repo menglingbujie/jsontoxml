@@ -5,11 +5,12 @@
   "main": "toxml.js",
   "dependencies": {
     "xml-writer": "^1.6.0",
-    "xml2js":"*"
+    "xml2js": "*"
   },
   "devDependencies": {},
   "scripts": {
-    "start": "node toxml.js"
+    "toxml": "node main.js toxml",
+    "tojson": "node main.js tojson"
   },
   "repository": {
     "type": "git",
