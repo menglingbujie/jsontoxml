@@ -1,0 +1,26 @@
+{
+  "file": {
+    "before": {
+      "jsons": [
+        "taotaole_integralrules.json",
+        "ge_lang_mobile_order_recharge.json"
+      ]
+    },
+    "after": {
+      "xmls": [
+        "ge_lang_mobile_order_recharge.xml"
+      ]
+    }
+  },
+  "path": {
+    "before": {
+      "json": "./before/json/",
+      "xml": "./before/xml/"
+    },
+    "after": {
+      "json": "./after/json/",
+      "xml": "./after/xml/"
+    }
+  }
+
+}
