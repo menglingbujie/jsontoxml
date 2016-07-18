@@ -6,15 +6,14 @@ JSON TO XML
 
     {
       "file": {
-        "before": {//json文件列表
+        "before": {//待转换json文件列表
           "jsons": [
-            "taotaole_integralrules.json",
-            "ge_lang_mobile_order_recharge.json"
+            "langs.json",
           ]
         },
-        "after": {//xml文件列表
+        "after": {//待转换xml文件列表
           "xmls": [
-            "ge_lang_mobile_order_recharge.xml"
+            "langs.xml"
           ]
         }
       },
